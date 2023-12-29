@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod-with-annotation
+  labels:
+    team: product
+    version: 1.0.1
+    environment: development
+  annotations:
+    description1: Insert description in here 
+    description2: Insert description in here 
+spec:
+  containers:
+    - name: nginx
+      image: nginx
+      ports:
+        - containerPort: 80
