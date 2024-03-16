@@ -5,5 +5,6 @@ Self Repo On Learning Orchestration Tool with Vanilla Kubernetes (k8s) Running o
 - [ ]  TODO : Add Templates for K8s YAML script
 - [ ]  TODO : Add Screenshot & Recommeneded UI for Control Plane
 - [ ]  TODO : Add Examples on creating K8-Cluster From Scratch (VM Baremetal)
+- [ ]  TODO : Add Examples on creating K8-Cluster From Scratch (VM Cloud AWS/Azure/GCP)
 
 
